@@ -10,8 +10,8 @@ Thank you for your interest in contributing! This project aims to provide clear,
 
 ### 2. Follow the Folder Structure
 Each language folder should have:
-- `docs/` — Documentation and learning path for that language
-- `Object-Oriented-Programming/` — Code implementations for each OOP concept
+- `docs/` : Documentation and learning path for that language
+- `Object-Oriented-Programming/` : Code implementations for each OOP concept
 
 ### 3. Documentation Guidelines
 - Write beginner-friendly explanations with real-world analogies

@@ -17,8 +17,8 @@ This project is a comprehensive resource for learning and practicing Object-Orie
 ## How to Navigate
 - Go to the folder for your preferred language (currently only `C#` is available).
 - Inside each language folder, you'll find:
-  - `docs/` — Guided documentation and learning path
-  - `Object-Oriented-Programming/` — Code implementations for each OOP concept
+  - `docs/` : Guided documentation and learning path
+  - `Object-Oriented-Programming/` : Code implementations for each OOP concept
 
 ## Contributing
 We welcome contributions in any language!

@@ -7,7 +7,7 @@ Hey there! Let's explore polymorphism in a simple, practical way!
 Polymorphism means "many forms." In programming, it lets you use a single type (like a base class or interface) to work with objects of different types (like different employee types). This makes your code flexible and easy to extend.
 
 **Simple Example:**
-Suppose you have different types of employees—permanent and contract. Both have a `CalculatePay()` method, but each calculates pay differently. With polymorphism, you can write code that works with any employee type, and the correct `CalculatePay()` method will be called automatically.
+Suppose you have different types of employees, permanent and contract. Both have a `CalculatePay()` method, but each calculates pay differently. With polymorphism, you can write code that works with any employee type, and the correct `CalculatePay()` method will be called automatically.
 
 **Why do we need it?**
 - You can write code that works with groups of related objects, without worrying about their exact type.
@@ -431,7 +431,7 @@ foreach (var req in requests)
 
 See [Encapsulation, Abstraction & Polymorphism Combined: Code Walkthrough](./encap-abstract-poly-walkthrough.md) for a detailed guide to the implementation and usage in the codebase.
 
-This walkthrough demonstrates how all three OOP pillars work together in real-world scenarios, helping you design robust, flexible, and maintainable systems. You'll see how encapsulation protects data, abstraction defines contracts, and polymorphism enables flexible behavior—all in one place!
+This walkthrough demonstrates how all three OOP pillars work together in real-world scenarios, helping you design robust, flexible, and maintainable systems. You'll see how encapsulation protects data, abstraction defines contracts, and polymorphism enables flexible behavior, all in one place!
 
 ## Let's Practice!
 
@@ -462,4 +462,4 @@ Ready to get hands-on with polymorphism? Try these exercises to reinforce your u
 
 Now that you've practiced polymorphism, you're ready to move on to [Inheritance](./inheritance.md), where you'll learn how classes can share and extend behavior. Inheritance is the foundation that makes polymorphism possible, allowing you to build flexible and reusable code structures.
 
-Remember: Polymorphism is like having a universal remote for your code—it lets you interact with many different objects in a consistent way, while each object can still do its own thing. Practice using both method overriding and overloading, and experiment with interfaces to see the full power of polymorphism in C#!
+Remember: Polymorphism is like having a universal remote for your code, it lets you interact with many different objects in a consistent way, while each object can still do its own thing. Practice using both method overriding and overloading, and experiment with interfaces to see the full power of polymorphism in C#!
